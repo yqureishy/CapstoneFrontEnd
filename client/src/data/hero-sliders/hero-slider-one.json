@@ -1,21 +1,22 @@
 [
   {
     "id": 1,
-    "title": "",
+    "title": "Fresh Products",
     "subtitle": "Fruits",
     "image": "/assets/img/slider/fruits3.png",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
-    "title": "",
+
+    "title": "Fresh Products",
     "subtitle": "Vegetables",
     "image": "/assets/img/slider/veg.png",
     "url": "/shop-grid-standard"
   },
   {
     "id": 3,
-    "title": "",
+    "title": "Fresh Products",
     "subtitle": "Flowers",
     "image": "/assets/img/slider/flowers.png",
     "url": "/shop-grid-standard"

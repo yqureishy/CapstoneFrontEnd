@@ -28,11 +28,11 @@ const HeroSliderThirteenSingle = ({ data, sliderClassName }) => {
           </div>
           <div className="col-xl-5 col-lg-5 col-md-6 col-12 col-sm-6">
             <div className="single-slider-img4 slider-animated-1">
-              <img
+              {/* <img
                 className="animated img-fluid"
                 src={process.env.PUBLIC_URL + data.image}
                 alt=""
-              />
+              /> */}
               <div className="single-price-wrap">
                 <img src={process.env.PUBLIC_URL + data.shapeImage} alt="" />
                 <div className="single-price">

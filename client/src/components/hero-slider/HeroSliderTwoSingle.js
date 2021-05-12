@@ -27,11 +27,11 @@ const HeroSliderTwoSingle = ({ data, sliderClassName }) => {
           </div>
           <div className="col-12 col-sm-6">
             <div className="slider-singleimg-hm10 slider-animated-2 ml-40 mr-40">
-              <img
+              {/* <img
                 className="animated img-fluid"
                 src={process.env.PUBLIC_URL + data.image}
                 alt=""
-              />
+              /> */}
             </div>
           </div>
         </div>
