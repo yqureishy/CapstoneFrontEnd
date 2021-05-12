@@ -1,16 +1,23 @@
 [
   {
     "id": 1,
-    "title": "Smart Products",
-    "subtitle": "Winter Offer 2020 Collection",
-    "image": "/assets/img/slider/single-slide-hm1-2.png",
+    "title": "",
+    "subtitle": "Fruits",
+    "image": "/assets/img/slider/fruits3.png",
     "url": "/shop-grid-standard"
   },
   {
     "id": 2,
-    "title": "Smart Products",
-    "subtitle": "Summer Offer 2020 Collection",
-    "image": "/assets/img/slider/single-slide-1.png",
+    "title": "",
+    "subtitle": "Vegetables",
+    "image": "/assets/img/slider/veg.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "title": "",
+    "subtitle": "Flowers",
+    "image": "/assets/img/slider/flowers.png",
     "url": "/shop-grid-standard"
   }
 ]
