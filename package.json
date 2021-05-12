@@ -1,0 +1,25 @@
+{
+  "name": "Capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js && cd client npm start",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "gulp-uglify": "^3.0.2",
+    "mongoose": "^5.12.7"
+  },
+  "devDependencies": {
+    "gulp-strip-comments": "^2.5.2"
+  }
+}
